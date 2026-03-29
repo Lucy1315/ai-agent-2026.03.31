@@ -1,0 +1,9 @@
+anthropic
+langgraph
+yt-dlp
+duckduckgo-search
+Pillow
+requests
+python-dotenv
+replicate
+openai

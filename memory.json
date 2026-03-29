@@ -1,0 +1,44 @@
+[
+  {
+    "input": "https://www.youtube.com/watch?v=1BIjKh1SbTY",
+    "input_type": "youtube",
+    "video_title": "Project Hail Mary's Most Confusing Moments Explained",
+    "thumbnail_path": "thumbnails/ai_bold_dramatic_43690.png",
+    "had_error": false,
+    "timestamp": "2026-03-29T20:58:24.637845"
+  },
+  {
+    "input": "https://www.youtube.com/watch?v=1BIjKh1SbTY",
+    "input_type": "youtube",
+    "video_title": "Project Hail Mary's Most Confusing Moments Explained",
+    "thumbnail_path": "thumbnails/ai_bold_dramatic_64524.png",
+    "had_error": false,
+    "timestamp": "2026-03-29T20:58:43.607898"
+  },
+  {
+    "input": "https://www.youtube.com/watch?v=1BIjKh1SbTY",
+    "input_type": "youtube",
+    "video_title": "Project Hail Mary's Most Confusing Moments Explained",
+    "thumbnail_path": "thumbnails/ai_bold_dramatic_30511.png",
+    "had_error": false,
+    "timestamp": "2026-03-29T21:04:17.616573"
+  },
+  {
+    "input": "https://www.youtube.com/watch?v=1BIjKh1SbTY",
+    "input_type": "youtube",
+    "video_title": "Project Hail Mary's Most Confusing Moments Explained",
+    "summary": "\"Project Hail Mary\"에서 다른 우주비행사들이 죽은 이유를 설명하는 영상입니다. 탈세티 항성계로 가는 수년간의 여행 동안 정신적 붕괴를 막기 위해 강제 혼수상태에 들어갔는데, 특정 유전자 마커를 가진 사람만 장기간 혼수상태에서 살아남을 수 있으며, 결국 그레이스만이 유일하게 생존했다고 합니다.",
+    "thumbnail_path": "thumbnails/ai_bold_dramatic_48696.png",
+    "had_error": false,
+    "timestamp": "2026-03-29T21:11:32.219104"
+  },
+  {
+    "input": "https://www.youtube.com/watch?v=1BIjKh1SbTY",
+    "input_type": "youtube",
+    "video_title": "Project Hail Mary's Most Confusing Moments Explained",
+    "summary": "이 영상은 영화 \"프로젝트 헤일 메리\"의 혼란스러운 장면들을 설명합니다. 주인공 그레이스와 함께 우주선에 탔던 다른 우주비행사들이 왜 죽었는지, 그리고 외계인 로키가 그레이스를 만나기 전까지 46년 동안이나 그 지역에 혼자 있었다는 사실 등을 자세히 해설합니다.",
+    "thumbnail_path": "thumbnails/ai_bold_dramatic_55280.png",
+    "had_error": false,
+    "timestamp": "2026-03-29T21:18:54.034613"
+  }
+]
